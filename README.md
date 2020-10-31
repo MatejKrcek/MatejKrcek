@@ -7,6 +7,6 @@ I am a 17-year-old student interested in modern technology and programming. I co
 
 - Twitter: [@krcekmatej](https://twitter.com/krcekmatej)
 - LinkedIn: [Matej Krcek](https://www.linkedin.com/in/matejkrcek/)
-- Website: [Matej's website](http://matej.krcek.cz/)
+- Website: [Matej's website](https://www.matejkrcek.com/)
 - Blog: [Matej on Medium](https://medium.com/@matej_47379)
 
