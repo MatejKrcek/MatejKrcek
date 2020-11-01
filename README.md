@@ -1,7 +1,9 @@
 # Hi there! 👋
 **I am Matěj.**
 
-I am a 17-year-old student interested in modern technology and programming. I code in Flutter & Dart, Python and JavaScript, organize conferences, events and workshops, design voice applications on Google Assistant and love business.
+I am a student interested in modern technologies, programming and business. I code in Dart with Flutter, JavaScript & TypeScript, and Python. I organize and speak at conferences, study in high school, and work currently as a software engineer.
+
+And I love that.
 
 ## 💬 Get in touch
 
